@@ -2,7 +2,6 @@ streamlit==1.32.2
 requests==2.31.0
 beautifulsoup4==4.12.3
 bs4==0.0.2
-lxml==4.9.4
 pandas==2.2.1
 numpy==1.26.4
 validators==0.22.0
